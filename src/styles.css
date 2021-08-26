@@ -6,3 +6,11 @@ body {
     rgb(111, 34, 142) 100.2%
   );
 }
+
+img {
+  display: flex;
+  margin: 0 auto;
+  padding-top: 10px;
+  justify-content: center;
+  justify-content: space-around;
+}
