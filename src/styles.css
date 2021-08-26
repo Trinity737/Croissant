@@ -1,0 +1,8 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background: radial-gradient(
+    circle at 34.2% 44.3%,
+    rgb(233, 79, 79) 6.5%,
+    rgb(111, 34, 142) 100.2%
+  );
+}
