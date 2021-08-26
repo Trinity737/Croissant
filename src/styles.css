@@ -2,7 +2,7 @@ body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   display: block;
   margin: 8px;
-  background: rgb(242, 112, 156);
+  background: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
 }
 
 .img {
@@ -10,17 +10,18 @@ body {
   max-width: 100%;
   border-radius: 10px;
   margin: 30px auto;
-  padding-top: 10px;
+  padding-top: 80px;
   justify-content: center;
   justify-content: space-around;
 }
 
-.col-sm-6 {
+.col-sm-12 {
   display: flex;
   justify-content: center;
   justify-content: space-evenly;
 }
 
-.container {
-  text-align: center;
+.info {
+  display: block;
+  margin: 0;
 }
